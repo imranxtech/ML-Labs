@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large Machine Learning Datasets & Models
+*.csv
+*.npz
+*.h5
+*.pkl
